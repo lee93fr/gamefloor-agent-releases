@@ -1,5 +1,7 @@
 # Gameflorr Agent — téléchargements
 
+[![Dernière version publiée](https://img.shields.io/github/v/release/lee93fr/gamefloor-agent-releases?label=version)](../../releases/latest)
+
 Ce dépôt contient uniquement les installateurs publics de l’agent local Gameflorr.
 
 Téléchargez la version adaptée à votre ordinateur depuis la page [Releases](../../releases/latest) :
